@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**jaycetop/jaycetop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-jayce@bisonai.com-c14438?style=flat&logo=Gmail&logoColor=white)](jayce@bisonai.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Jayce-0072b1?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jongsu-lee-b77817239/](https://www.linkedin.com/in/jongsu-lee-b77817239/) "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@hymn8612-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hymn8612 "Follow on Twitter")
 
-Here are some ideas to get you started:
+I´m Jayce, backend Engineer in Korea. I’m currently working on [Bisonai](https://github.com/Bisonai). 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀💻 Technologies & Tools
+
+### 🧠 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs)
+
+### 🗃️ Databases & Search Engines
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=google-cloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-black?style=flat-square&logo=argo)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
+![Helm](https://img.shields.io/badge/Helm-black?style=flat-square&logo=helm)
+![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+
+### 💬 Communication
+![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack)
+![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion)
